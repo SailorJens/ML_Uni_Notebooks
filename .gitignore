@@ -1,5 +1,6 @@
 .DS
 .DS_Store
 .venv
+.venv11
 __pycache__
 /data
